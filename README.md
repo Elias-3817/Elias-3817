@@ -25,7 +25,7 @@ I am a business-impact-focused BI Analyst with a relentless drive to solve high-
 | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | **[Imara Insurance BI & Monitoring System](https://github.com/Elias-3817/Imara-insurance-dashboard-analytics)** | Built a full-stack BI pipeline to track high-value clients at risk of churning, projecting a significant improvement in client retention and agent performance.                                             | `Python`, `Power BI`, `PostgreSQL`   |
 | **[Customer Churn Prediction Engine](https://github.com/Elias-3817/Churn-customer-prediction)** | Developed a machine learning model to predict customer churn, saving an estimated **~$128K/month** in potential lost revenue by strategically flagging at-risk accounts.  | `Python`, `XGBoost`, `Random Forest` |
-| **[Olist E-commerce Dashboard](https://github.com/Elias-3817/Olist-Ecommerce-dashboard)** | [cite_start]Created an interactive dashboard that identified a **$1.2M revenue risk** from late deliveries and revealed that the top 5% of customers generated 26% of revenue.           | `Power BI`, `DAX`, `Data Modeling`   |
+| **[Olist E-commerce Dashboard](https://github.com/Elias-3817/Olist-Ecommerce-dashboard)** | Created an interactive dashboard that identified a **$1.2M revenue risk** from late deliveries and revealed that the top 5% of customers generated 26% of revenue.           | `Power BI`, `DAX`, `Data Modeling`   |
 
 
 ### 📫 Let's Connect
